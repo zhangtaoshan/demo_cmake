@@ -1,0 +1,4 @@
+#define step3_VERSION_MAJOR @step3_VERSION_MAJOR@
+#define step3_VERSION_MINOR @step3_VERSION_MINOR@
+
+#cmakedefine USE_MYMATH
