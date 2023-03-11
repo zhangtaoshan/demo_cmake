@@ -1,0 +1,4 @@
+#define step6_VERSION_MAJOR @step6_VERSION_MAJOR@
+#define step6_VERSION_MINOR @step6_VERSION_MINOR@
+
+#cmakedefine USE_MYMATH
